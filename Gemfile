@@ -9,6 +9,7 @@ gem "rails", "~> 7.1.3"
 gem "sprockets-rails"
 
 gem 'dotenv-rails', groups: [:development, :test]
+gem 'webpacker'
 
 # Use postgresql as the database for Active Record
 gem "pg", "~> 1.1"
